@@ -1,6 +1,6 @@
 # Geo for Good Summit Examples
 
-### Example 1: Land-use change in Madre de Dios, Peru (land_use_over_time)
+### Example 1: Land-use change in Madre de Dios, Peru (peru_land_use_change)
 This folder contains two files. The first (LandUse_Map_MadredeDios.pdf) is a map of the Madre de Dios region of Peru in 2020, with each 1km grid cell categorized by land-use type (data from MapBiomas). The second is a figure I made showing district-level trajectories of land-use change in the region over time, using the same data as the first image but from annual snapshots from 2000 -- 2020. I used Google Earth Engine to calculate areas of the various land-use categories over time for each district. This data serves as predictor variables for a project that aims to link land-use change to vector-borne disease throughout the region.
 
 ### Example 2: Species distribution modeling for disease hosts (climate_land_use_rasters).
